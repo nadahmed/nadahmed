@@ -25,10 +25,10 @@ As a Freelance Web Developer, I successfully completed 9 projects in Angular, No
 
 ## Achievements
 
-- Participated in a 5.5-month workshop in South Korea on Patents, Product Development, and Investor Networking (2021).
+- Participated in a 6 month workshop in South Korea on Patents, Product Development, and Investor Networking (2021).
 - Co-founded Genie-IoT, selected for the Banglalink IT Incubator 2.0 (2019).
-- Secured 1st Runner-Up in the University Capstone Project Showcase for an IoT-based Home Automation System (2018).
-- Won the title of Champion at the IEEE NSU PES Project Showcase for the same project (2018).
+- Secured 1st Runner-Up in the University Capstone Project Showcase for an IoT-based Home Automation System (2017).
+- Won the title of Champion at the IEEE NSU PES Project Showcase for the same project (2017).
 
 Feel free to reach out for collaboration or to discuss exciting opportunities!
 
