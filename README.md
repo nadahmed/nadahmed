@@ -1,5 +1,7 @@
 # Noor's Developer Portfolio
 
+📧 [Email](mailto:nooraldinahmed@gmail.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/nadahmed)
+
 Welcome to my GitHub repository! I'm a passionate and versatile developer with a diverse skill set in web development, embedded systems, and more. My journey involves exploring new technologies, leading impactful projects, and achieving milestones that showcase my commitment to excellence.
 
 ## Skills
@@ -53,5 +55,3 @@ Welcome to my GitHub repository! I'm a passionate and versatile developer with a
 **Achievement:** Champion at the IEEE NSU PES Project Showcase and 1st Runner-Up in the University Capstone Project Showcase.
 
 Feel free to reach out for collaboration or to discuss exciting opportunities!
-
-📧 [Email](mailto:nooraldinahmed@gmail.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/nadahmed)
